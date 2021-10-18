@@ -80,10 +80,6 @@
     <td>https://justpaste.it/4x575</td>
   </tr>
   
-    <tr>
-    <td>Machine Learning Concept for Beginners</td>
-    <td>https://bit.ly/3z1RjLh</td>
-  </tr>
   
   <tr>
     <td>Machine Learning Yearning</td>
@@ -114,5 +110,57 @@
     <td>Cloud Native DevOps with Kubernetes</td>
     <td>https://bit.ly/3z0VPKd</td>
   </tr>
+  
+  <tr>
+    <td> Python for Finance </td>
+    <td> https://cutt.ly/9nnPzD6 </td>
+  </tr>
+  
+  <tr>
+    <td> Data Analytics using Python </td>
+    <td> https://bit.ly/3z4DRq1 </td>
+  </tr>
+  
+  <tr>
+    <td> Practical Statistics for Data Science </td>
+    <td> https://cutt.ly/tnmSZD2 </td>
+  </tr>
+  
+   <tr>
+    <td> Neural networks From Scratch in Python </td>
+    <td> https://bit.ly/3uZzzNx </td>
+  </tr>
+  
+   <tr>
+    <td> Artificial Intelligence With Big Data </td>
+    <td>  https://bit.ly/3DVDpw1 </td>
+  </tr>
+  
+   <tr>
+    <td> Programming Books </td>
+    <td>  https://www.techprofree.com/category/books/ </td>
+  </tr>
+  
+  <tr>
+    <td> Python Coding </td>
+    <td>  https://bit.ly/3Aynh1c </td>
+  </tr>
+  
+  
+   <tr>
+    <td> Artificial intelligence With Big Data </td>
+    <td>  https://bit.ly/3iKrGIA </td>
+  </tr>
+  
+  <tr>
+    <td> Complete Chart of Neural Networks from Scratch </td>
+    <td>  https://bit.ly/3aqTwFc </td>
+  </tr>
+  
+  <tr>
+    <td> Analytical skills for AI & Data Science  </td>
+    <td>  https://bit.ly/3aqZshs</td>
+  </tr>
+  
   
 </table>
