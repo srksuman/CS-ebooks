@@ -197,4 +197,64 @@
     <td> https://bit.ly/2Yl6kKH </td>
   </tr>
   
+  <tr>
+    <td> Machine Learning Audio Image and video Analysis  </td>
+    <td> https://cutt.ly/qEGE2pZ </td>
+  </tr>
+  
+  <tr>
+    <td> Machine Learning and Security  </td>
+    <td> https://cutt.ly/FEDIVOm </td>
+  </tr>
+  
+  <tr>
+    <td> Create Simple GUI Applications </td>
+    <td> https://bit.ly/2Y9T3Et </td>
+  </tr>
+  
+  <tr>
+    <td> Machine Learning With Python For Everyone </td>
+    <td> https://bit.ly/3D28RYX </td>
+  </tr>
+  
+  <tr>
+    <td> Machine Learning </td>
+    <td> https://cutt.ly/KEm14cz </td>
+  </tr>
+  
+  <tr>
+    <td> Learning React </td>
+    <td> https://bit.ly/2UoGP9n </td>
+  </tr>
+  
+   <tr>
+    <td> Python Machine Learning </td>
+    <td>  https://bit.ly/3kNyG8R </td>
+  </tr>
+  
+  <tr>
+    <td> R for Data Science </td>
+    <td>  https://cutt.ly/6ERee5H </td>
+  </tr>
+  
+  <tr>
+    <td> Deep Learning for Computer Vision with Python </td>
+    <td> https://bit.ly/3lZeoIL </td>
+  </tr>
+  
+  <tr>
+    <td> Machine Learning  </td>
+    <td> https://bit.ly/3zErsIp </td>
+  </tr>
+  
+   <tr>
+    <td> Django Web Framework For Python </td>
+    <td> https://bit.ly/3EQYgSo </td>
+  </tr>
+  
+  <tr>
+    <td> Algorithms for Data Science </td>
+    <td> https://cutt.ly/qEvN8Ts </td>
+  </tr>
+  
 </table>
