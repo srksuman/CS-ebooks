@@ -1,10 +1,5 @@
-## BY PROGRAMMING LANGUAGE
+# Computer Science e-books
 
-Originally, this list included a section called "Language Agnostic" for books about programming subjects not restricted to a specific programming language.
-That section got so big, we decided to split it into its own file, the [BY SUBJECT file](free-programming-books-subjects.md).
-
-
-### Index
 
 * [ABAP](#abap)
 * [Ada](#ada)
