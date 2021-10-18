@@ -162,5 +162,39 @@
     <td>  https://bit.ly/3aqZshs</td>
   </tr>
   
+  <tr>
+    <td> Dynamical Systems with Applications using Python  </td>
+    <td> https://bit.ly/3iPluie </td>
+  </tr>
+  
+  <tr>
+    <td> Real World Python  </td>
+    <td> https://cutt.ly/XE3pYjI </td>
+  </tr>
+  
+  <tr>
+    <td> Python Machine Learning Edition-I II III  </td>
+    <td>  https://bit.ly/3ivVecw </td>
+  </tr>
+  
+  <tr>
+    <td> Rapid Python Programming  </td>
+    <td>  https://cutt.ly/PELE4Fm </td>
+  </tr>
+  
+  <tr>
+    <td> Machine Learning Algorithms with Python  </td>
+    <td> https://bit.ly/3D6sKhu </td>
+  </tr>
+  
+  <tr>
+    <td> Scala for Machine Learning  </td>
+    <td> https://bit.ly/2WFZM8I </td>
+  </tr>
+  
+  <tr>
+    <td> Software Engineering at Google  </td>
+    <td> https://bit.ly/2Yl6kKH </td>
+  </tr>
   
 </table>
